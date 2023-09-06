@@ -15,7 +15,7 @@ body {
   background: rgb(181, 149, 116);
   background: linear-gradient(
     288deg,
-    rgba(181, 149, 116, 1) 0%,
+    rgb(218, 195, 131) 0%,
     rgba(255, 223, 190, 1) 100%
   );
   background-position: center center;
